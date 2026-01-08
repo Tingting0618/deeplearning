@@ -1,0 +1,18 @@
+# Core numeric + data tools
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Visualization and notebooks
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# PyTorch stack (CPU/GPU builds are platform-specific; see notes below)
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Hugging Face (transformers + datasets) for NLP & foundation models
+datasets>=2.16.0
+
+# Common ML tooling
+scikit-learn>=1.2.2
+tqdm>=4.65.0
