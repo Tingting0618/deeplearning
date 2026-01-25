@@ -15,4 +15,8 @@ datasets>=2.16.0
 
 # Common ML tooling
 scikit-learn>=1.2.2
+scikit-image>=0.22.0
 tqdm>=4.65.0
+
+# Computer vision
+opencv-python-headless>=4.9.0
