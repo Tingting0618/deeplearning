@@ -17,6 +17,7 @@ datasets>=2.16.0
 scikit-learn>=1.2.2
 scikit-image>=0.22.0
 tqdm>=4.65.0
+h5py>=3.10.0
 
 # Computer vision
 opencv-python-headless>=4.9.0
